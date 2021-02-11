@@ -1,0 +1,48 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+
+#pagetitle{
+
+  text-align: center;
+}
+
+#menu{
+
+  margin-left: -40px;
+  text-align: center;
+}
+
+#aboutme{
+
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#projects{
+
+  text-align: center;
+}
+
+li{
+
+  display: inline;
+  padding: 25px;
+}
+
+img.large{
+
+  width:1024px;
+  height:768px;
+}
+
+img.align-center{
+
+  display: block;
+  margin: 0px auto;
+}
